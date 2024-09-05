@@ -7,7 +7,7 @@ defined( 'BLUDIT' ) || die( 'That did not work as expected.' );
  * Copyright 2024 Joaquim Homrighausen; all rights reserved.
  * Development sponsored by WebbPlatsen i Sverige AB, www.webbplatsen.se
  *
- * This file is part of bs5docs. bs5plain is free software.
+ * This file is part of bs5docs. bs5docs is free software.
  *
  * bs5docs is free software: you may redistribute it and/or modify it  under
  * the terms of the GNU AFFERO GENERAL PUBLIC LICENSE v3 as published by the
@@ -19,7 +19,7 @@ defined( 'BLUDIT' ) || die( 'That did not work as expected.' );
  * v3 for more details.
  *
  * You should have received a copy of the GNU AFFERO GENERAL PUBLIC LICENSE v3
- * along with the bs5plain package. If not, write to:
+ * along with the bs5docs package. If not, write to:
  *  The Free Software Foundation, Inc.,
  *  51 Franklin Street, Fifth Floor
  *  Boston, MA  02110-1301, USA.

@@ -74,7 +74,7 @@ if ( defined( 'BS5DOCS_DEBUG_HOME' ) && BS5DOCS_DEBUG_HOME ) {
             }
             if ( ! empty( $site_slogan ) ) {
                 if ( empty( $site_desc ) ) {
-                    echo '<div class="h3 ms-0 ms-lg-4 mt-2 text-center align-self-center mt-0 p-0">' . $site_slogan . 'fslkdf jsdlk fjlsdjf kls djflsk döjfl södjfsd'. '</div>';
+                    echo '<div class="h3 ms-0 ms-lg-4 mt-2 text-center align-self-center mt-0 p-0">' . $site_slogan . '</div>';
                 } else {
                     echo '<div class="ms-0 ms-lg-4 mt-2 text-center align-self-center mt-0 p-0">' . $site_slogan . '</div>';
                 }

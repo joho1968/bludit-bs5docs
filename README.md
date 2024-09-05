@@ -49,6 +49,9 @@ Bludit version 3.15.x or 3.16.x
 
 ## Changelog
 
+### 1.0.1 (2024-09-05)
+* Very minor cleanup
+
 ### 1.0.0 (2024-08-30)
 * Initial release
 
@@ -107,6 +110,7 @@ Boston, MA  02110-1301, USA.
 The bs2docs theme was written by Joaquim Homrighausen while converting :coffee: into code.
 
 The bs2docs theme is sponsored by [WebbPlatsen i Sverige AB](https://webbplatsen.se), Sweden :sweden:
+
 Commercial support and customizations for this plugin is available from WebbPlatsen i Sverige AB.
 
 If you find this plugin useful, feel free to purchase BS5Docs Pro :blush:
